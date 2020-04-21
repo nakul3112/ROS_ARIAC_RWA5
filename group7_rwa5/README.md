@@ -1,14 +1,23 @@
 ## **ENPM809B: Building a Manufacturing Robot Software System: RWA-5**
 
-This is README to run the ROS package created for RWA5. 
+This is README to run the ROS package created for group-assignment RWA5. 
+
+Group Members:
+1.  An Li
+2.  Andre 
+3.  Nakul Patel
+4.  Revati Naik
+5.  Sarvesh Thakur
+6.  Srujan Panuganti
 
 ## **Package Name: group7_rwa5**
-* This package builts an entire kit for the RWA5. 
-* It builds a whole kit based on the order.
+* This package builts an entire kit for the assignment RWA5. 
+* It builds a whole kit based on the order received through a ros topic using GEAR inferace.
 * It has the abilty to detect faulty parts and replace them.
 * It also checks for the updates to an order.
 * It takes smart decisions between modifying the current kit or building a whole new kit if that order is updated.
 * The robotic arms help each other if one of them is not able to reach a part while building a kit.
+
 ## **Minimum System Requirements**
   * ROS Melodic 
   * Gazebo >= 9.6.0 
@@ -96,5 +105,32 @@ In terminal 4:
 	source devel/setup.bash
     rosrun group7_rwa5 main_node
 
-## **Record Result**
+## **See how it works**
+
+Access the below link to see the whole video!
 https://drive.google.com/drive/folders/1rmu-_D3-2d6kRLswu9rlon-fbD_DuJh7?usp=sharing
+
+<p align="center">
+<img src="gifs/1.gif" alt="Pick and Place">
+</p>
+<p align="center">
+<em>Pick and Place</em>
+</p>
+
+<p align="center">
+<img src="gifs/2.gif" alt="Faulty Check">
+</p>
+<p align="center">
+<em>Faulty Check</em>
+</p>
+
+<p align="center">
+<img src="gifs/3.gif" alt="In Process Order Update">
+</p>
+<p align="center">
+<em>In Process Order Update</em>
+</p>
+
+
+
+
