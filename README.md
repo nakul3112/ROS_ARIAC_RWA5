@@ -107,9 +107,6 @@ In terminal 4:
 
 ## **See how it works**
 
-Access the below link to see the whole video!
-https://drive.google.com/drive/folders/1rmu-_D3-2d6kRLswu9rlon-fbD_DuJh7?usp=sharing
-
 <p align="center">
 <img src="gifs/1.gif" alt="Pick and Place">
 </p>
@@ -131,6 +128,8 @@ https://drive.google.com/drive/folders/1rmu-_D3-2d6kRLswu9rlon-fbD_DuJh7?usp=sha
 <em>In Process Order Update</em>
 </p>
 
+Access the below link to see the whole video!
+https://drive.google.com/drive/folders/1rmu-_D3-2d6kRLswu9rlon-fbD_DuJh7?usp=sharing
 
 
 
